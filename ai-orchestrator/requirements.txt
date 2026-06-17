@@ -7,7 +7,7 @@ pydantic-settings==2.1.0
 # AI/ML Libraries
 langchain==0.1.0
 langchain-openai==0.0.5
-langchain-anthropic==0.0.1
+langchain-anthropic==1.4.6
 langchain-google-genai==0.0.5
 langgraph==0.0.20
 
